@@ -7700,7 +7700,7 @@ blockquote {
     display: inline-block;
     letter-spacing: 1.5px; }
     .pricing-item .price:before {
-      content: '$';
+      content: '₹';
       font-size: 22px;
       font-weight: 400; }
     .pricing-item .price:after {
@@ -7708,7 +7708,7 @@ blockquote {
       font-weight: 400;
       letter-spacing: 0;
       color: var(--base-color);
-      content: '/ Monthly'; }
+      content: ''; }
   @media only screen and (max-width: 375px) {
     .pricing-item .list-style-two li {
       font-size: 15px; }
