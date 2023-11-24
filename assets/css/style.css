@@ -4024,8 +4024,8 @@ h6, .h6 {
     color: black;
     font-size: 25px;
     display: inline-block;
-    width: 130px;
-    height: 130px;
+    width: 90px;
+    height: 90px;
     background: var(--primary-color);
     line-height: 130px;
     border-radius: 50%;
